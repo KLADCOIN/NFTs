@@ -1,11 +1,22 @@
 [
   {
-    "ts": 1734470400,
-    "title": "Frost Byte #1",
-    "sha": "replace_this_with_real_sha256",
+    "ts": 1734470401,
+    "title": "Orange Tree #1",
+    "sha": "4cc6391992a86feb75175febdf06df8b38034694834390ccf79d96a641f4e8fd",
     "mime": "image/png",
     "size": 123456,
-    "url": "https://raw.githubusercontent.com/KOLDCOIN/NFTs/main/images/frost1.png",
-    "thumb": "https://raw.githubusercontent.com/KOLDCOIN/NFTs/main/images/frost1_thumb.png"
+    "url": "https://raw.githubusercontent.com/KOLDCOIN/NFTs/main/OrangesV1.png",
+    "thumb": "https://raw.githubusercontent.com/KOLDCOIN/NFTs/main/OrangesV1.png"
+  }
+]
+[
+  {
+    "ts": 1734470402,
+    "title": "Orange Tree #2",
+    "sha": "44abfd81c2cedae537152f331bf8d0d9716ce7a4de9561ccaa6d804828479a21",
+    "mime": "image/png",
+    "size": 123456,
+    "url": "https://raw.githubusercontent.com/KOLDCOIN/NFTs/main/OrangesV2.png",
+    "thumb": "https://raw.githubusercontent.com/KOLDCOIN/NFTs/main/OrangesV2.png"
   }
 ]
